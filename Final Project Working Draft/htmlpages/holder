@@ -1,0 +1,10 @@
+@media only screen and (max-width: 100px){#personal {
+    display:none;
+    visibility: hidden;
+}
+}
+
+@media only screen and (max-width: 300px) {#personal{
+    display: inline-block;
+}
+}

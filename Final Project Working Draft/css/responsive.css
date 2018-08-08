@@ -1,0 +1,70 @@
+@media only screen and (max-width: 600px){ #homeimage .collapse{
+display:none;
+}
+}
+
+@media only screen and (max-width: 125px){ .collapse{
+    display:none;
+    }
+    }
+
+    @media only screen and (max-width: 125px){.hanging{
+        display:none;
+    }
+}
+
+@media only screen and (max-width:125){.hanging {
+    display:none;
+}
+}
+
+@media only screen and (max-width: 300px){.hanging{
+    display:none;
+}
+
+
+@media only screen and (max-width: 300px) {#professional{
+    display: inline-block;
+}
+}
+}
+
+@media only screen and (max-width: 700px) {#personal1{
+ display: flex block;
+ float: left
+}
+}
+
+@media only screen and (max-width: 700px) {#professional{
+    display: block;
+    padding-top:600px;
+   }
+   }
+
+   @media only screen and (max-width: 650px){#searchbar{
+    display:none;
+}
+}
+
+@media only screen and (max-width: 650px){#navmenu .links {
+    display: block;
+    float: left;
+    padding-right:0 0 0 0;
+    margin: 0 0 0 0;
+}
+}
+
+@media only screen and (max-width: 650px){#navmenu{
+    display: inline;
+}
+}
+
+@media only screen and (max-width: 650px){ol {
+    display: inline-block;
+}
+}
+
+@media only screen and (max-width: 650px){#extra{
+    display: inline;
+}
+}
